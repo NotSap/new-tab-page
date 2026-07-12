@@ -5,7 +5,7 @@ A dark themed new tab.
 ## Features
 
 * Live Clock: Shows the current time which updates every second.
-* Search: Searches Google or goes straight to a website if you type a URL.
+* Search: Type something to search Google, or paste a link to go straight to a website.
 * Buttons: Quick links to get to Google, YouTube, Gmail, and GitHub faster.
 * To-Do List: A list where you can add and remove tasks. It saves using localStorage so your notes stay there even if you close the tab and reopen it.
 
@@ -15,8 +15,8 @@ You can find the project here: https://notsap.github.io/my-new-tab-page/
 
 ## Built With
 
-- HTML for the structure.
-- CSS for the layout and dark theme.
+- HTML for putting the text and boxes on the screen.
+- CSS for the dark colors and the look.
 - JavaScript for the clock and making the to-do list work.
 
 ## How to use it locally
