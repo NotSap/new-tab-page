@@ -1,33 +1,26 @@
-# My Custom New Tab Page
+# QuickTab
 
-A clean, dark‑themed new tab page I built from scratch.  
+A dark themed new tab.
 
-## What it does
+## Features
 
-- Shows a **live clock** that updates every second.
-- Has a **search bar** – type anything to search Google, or paste a URL to go there directly.
-- Has **shortcut buttons** for Google, YouTube, Gmail, and GitHub – click to open.
-- Has a **to‑do list** – add tasks and delete them when you're done.  
-  Your tasks are saved in your browser, so they stay even if you close the tab.
-- Press **Enter** to search quickly.
+* Live Clock: Shows the current time which updates every second.
+* Search: Searches Google or goes straight to a website if you type a URL.
+* Buttons: Quick links to get to Google, YouTube, Gmail, and GitHub faster.
+* To-Do List: A list where you can add and remove tasks. It saves using localStorage so your notes stay there even if you close the tab and reopen it.
 
-## Live demo
+## Live Link
 
-https://notsap.github.io/my-new-tab-page/
+You can find the project here: https://notsap.github.io/my-new-tab-page/
 
-## Built with
+## Built With
 
-- **HTML** – structure of the page.
-- **CSS** – dark theme and clean layout.
-- **JavaScript** – the clock, search, and to‑do list.
-- **localStorage** – saves your to‑do tasks in your browser.
+- HTML for the structure.
+- CSS for the layout and dark theme.
+- JavaScript for the clock and making the to-do list work.
 
-## How to run it
+## How to use it locally
 
-1. Download the `index.html` file.
-2. Double‑click it to open in your browser.
-3. That's it – it works right away.
+Just download the `index.html` file and double click it to open it.
 
----
-
-Made for the Hackclub Stardance challenge.
+Made for Stardance Hackclub by [NotSap](https://github.com/NotSap)
